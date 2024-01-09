@@ -16,55 +16,55 @@ LEGO sets released from 1970 to 2022, including details on each set's theme, pie
 ## Home View
 
 <p align="center">
-    <img src='' width="600">
+    <img src='https://github.com/amoghsawant17/Lego_Sets_Trends/blob/main/view_snaps/home.png' width="600">
 </p>
 
 ## Overview
 
 <p align="center">
-    <img src='' width="600">
+    <img src='https://github.com/amoghsawant17/Lego_Sets_Trends/blob/main/view_snaps/overview.png' width="600">
 </p>
 
 ## 1970's View
 
 <p align="center">
-    <img src='' width="600">
+    <img src='https://github.com/amoghsawant17/Lego_Sets_Trends/blob/main/view_snaps/1970.png' width="600">
 </p>
 
 ## 1980's View
 
 <p align="center">
-    <img src='' width="600">
+    <img src='https://github.com/amoghsawant17/Lego_Sets_Trends/blob/main/view_snaps/1980.png' width="600">
 </p>
 
 ## 1990's View
 
 <p align="center">
-    <img src='' width="600">
+    <img src='https://github.com/amoghsawant17/Lego_Sets_Trends/blob/main/view_snaps/1990.png' width="600">
 </p>
 
 ## 2000's View
 
 <p align="center">
-    <img src='' width="600">
+    <img src='https://github.com/amoghsawant17/Lego_Sets_Trends/blob/main/view_snaps/2000.png' width="600">
 </p>
 
 ## 2010's View
 
 <p align="center">
-    <img src='' width="600">
+    <img src='https://github.com/amoghsawant17/Lego_Sets_Trends/blob/main/view_snaps/2010.png' width="600">
 </p>
 
 ## 2020's View
 
 <p align="center">
-    <img src='' width="600">
+    <img src='https://github.com/amoghsawant17/Lego_Sets_Trends/blob/main/view_snaps/2020.png' width="600">
 </p>
 
 ## Feedback View
 
 <p align="center">
-    <img src='' width="600">
+    <img src='https://github.com/amoghsawant17/Lego_Sets_Trends/blob/main/view_snaps/feedback.png' width="600">
 </p>
 
 ## Insights
