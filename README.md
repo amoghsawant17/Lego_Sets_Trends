@@ -77,11 +77,18 @@ LEGO sets released from 1970 to 2022, including details on each set's theme, pie
 - The top Lego set in terms of average prices per set is the "Titanic" which was for the age of 18 and the release year was 2021. This set is for 680 $.
 - For age group 6, the total number of Lego sets is the highest followed by age groups 5, 7, and 8.
 
-### 1970's
-- 
+### Top Lego Sets in terms of Avg Pieces per Set
+- 1971  - 1252 Piece Motorized Basic Set
+- 1985  - 1501 Piece Teachers Resource Set
+- 1996  - 2456 Piece Bonus Lego Basic Town
+- 2008  - 5922 Piece Taj Mahal
+- 2022  - 10001 Piece Eiffel Tower
 
-### 1980's
-### 1990's
-### 2000's
-### 2010's
-### 2020's
+
+### Based on the existing data,
+- In the 1970s, the highest number of Total Sets 5 are for Age 3.
+- In the 1980s, the highest number of Total Sets 2 each are for Ages 3, 5 and 7.
+- In the 1990s, the  highest number of Total Sets of 10 are for Age 5.
+- In the 2000s, the  highest number of Total Sets 75 are for Age 6.
+- In the 2010s, the  highest number of Total Sets 215 were for Age 6.
+- In the 2020s, the  highest number of Total Sets 115 were for Age 7.
