@@ -71,12 +71,12 @@ LEGO sets released from 1970 to 2022, including details on each set's theme, pie
 
 ## Insights
 ### Overview
-- The "Normal" and "Gear" categories have higher average prices per set.
-- The "Ghostbusters" and "The Simpsons" themes have higher average prices per set.
+- The "Normal" and "Gear" categories have a higher average price per set.
+- The "Ghostbusters" and "The Simpsons" themes have a higher average price per set.
 - The "Collection" is the top category in terms of average pieces per set followed by categories such as "Normal" and "Extended".
 - The "Art", "Ghostbusters" and "The Simpsons" themes have higher average pieces per set.
 - The top Lego set in terms of average pieces per set is the "World Map" which was for the age of 18 and the release year was 2021. This set has 11695 pieces.
-- The top Lego set in terms of average prices per set is the "Titanic" which was for the age of 18 and the release year was 2021. This set is for 680 $.
+- The top Lego set in terms of average price per set is the "Titanic" which was for the age of 18 and the release year was 2021. This set is for 680 $.
 - For age group 6, the total number of Lego sets is the highest followed by age groups 5, 7, and 8.
 
 ### Top Lego Sets in terms of Avg Pieces per Set
