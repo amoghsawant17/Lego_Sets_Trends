@@ -1,5 +1,7 @@
 # Maven_Lego_Challenge - Power BI
-- This project is part of the Maven LEGO Challenge. 
+- This project is a part of the Maven LEGO Challenge [Maven Analytics]().
+- Link to [Live Dashboard]()
+ 
 
 ## Challenge Objective
 For the Maven LEGO Challenge, you'll need to stack your imagination and analytical prowess to piece together an interactive dashboard or visual that lets users explore the history and evolution of LEGO sets from the past 5 decades.
