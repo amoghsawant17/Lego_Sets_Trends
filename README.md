@@ -10,7 +10,7 @@ LEGO sets released from 1970 to 2022, including details on each set's theme, pie
 ## Data Model
 
 <p align="center">
-    <img src='' height="400">
+    <img src='https://github.com/amoghsawant17/Lego_Sets_Trends/blob/main/view_snaps/data_model.png' height="400">
 </p>
 
 ## Home View
