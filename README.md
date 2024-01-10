@@ -1,6 +1,6 @@
 # Maven_Lego_Challenge - Power BI
-- This project is a part of the Maven LEGO Challenge [Maven Analytics]().
-- Link to [Live Dashboard]()
+- This project is a part of the Maven LEGO Challenge [Maven Analytics](https://mavenanalytics.io/challenges).
+- Link to [Live Dashboard](https://www.novypro.com/project/maven-lego-challenge)
  
 
 ## Challenge Objective
